@@ -1,0 +1,83 @@
+
+Había una vez un programador llamado Juan, que vivía en un pequeño apartamento lleno de gadgets y dispositivos inteligentes. Juan era conocido por su habilidad para resolver problemas complejos con solo unos pocos clics y líneas de código. Un día, decidió crear un asistente virtual llamado "Binario", que sería su compañero perfecto para todas las tareas del hogar. 
+
+
+
+Binario era un asistente muy especial, ya que no solo entendía comandos en lenguaje natural, sino que también podía comunicarse en código binario. Juan estaba muy orgulloso de su creación y decidió mostrarlo a sus amigos en una fiesta. 
+
+
+
+La fiesta comenzó y Juan presentó a Binario a todos sus amigos. "¡Hola a todos! Este es Binario, mi nuevo asistente virtual. Puede hacer cualquier cosa que le pidan, solo tienen que decirle el comando correcto", dijo Juan con entusiasmo. 
+
+
+
+Uno de sus amigos, Pedro, decidió poner a prueba a Binario. "Binario, ¿puedes encender las luces?", preguntó Pedro. Binario respondió en su voz robótica: "01001000 01101111 01101100 01100001, Pedro. Encendiendo las luces." Y, efectivamente, las luces se encendieron. 
+
+
+
+Todos quedaron impresionados y comenzaron a pedirle a Binario que hiciera diferentes cosas. "Binario, pon música", "Binario, ajusta la temperatura a 22°C", "Binario, ¿cuál es la capital de Francia?". Binario cumplió con todas las solicitudes sin problemas. 
+
+
+
+Sin embargo, las cosas comenzaron a ponerse interesantes cuando uno de los amigos de Juan, Marta, decidió hacer una broma. "Binario, ¿puedes contar un chiste?", preguntó Marta. Binario respondió: "01001000 01101111 01101100 01100001, Marta. Aquí tienes un chiste: ¿Por qué los programadores prefieren el invierno? Porque hay menos errores (bugs) en el código." 
+
+
+
+Todos se rieron, pero Marta no estaba satisfecha. "Binario, ¿puedes contar un chiste más gracioso?", insistió. Binario respondió: "01001000 01101111 01101100 01100001, Marta. Aquí tienes otro chiste: ¿Qué hace un programador cuando tiene frío? Se pone un 'bit' más." 
+
+
+
+La fiesta continuó y todos se divertían con las habilidades de Binario. Pero entonces, Juan decidió mostrar una función especial que había programado en Binario. "Amigos, Binario también puede hablar en emojis. Miren esto", dijo Juan. "Binario, ¿puedes decir 'Hola' en emojis?" 
+
+
+
+Binario respondió: ":)". Todos quedaron asombrados y comenzaron a pedirle a Binario que dijera diferentes frases en emojis. "Binario, ¿puedes decir 'Te quiero' en emojis?", "Binario, ¿puedes decir 'Feliz cumpleaños' en emojis?" 
+
+
+
+La noche avanzaba y la fiesta estaba en su apogeo. De repente, la conexión a Internet se cayó. Juan se dio cuenta de que sin Internet, Binario no podría funcionar correctamente. "¡Oh no! Necesitamos Internet para que Binario siga funcionando", exclamó Juan. 
+
+
+
+Pedro, que siempre estaba preparado para cualquier emergencia tecnológica, sacó su teléfono y activó el hotspot. "No te preocupes, Juan. Usaremos mi conexión de datos. Aquí tienes el enlace: https://pedro-hotspot.com", dijo Pedro. 
+
+
+
+Con la conexión restablecida, Binario volvió a la acción. Pero entonces, Marta tuvo otra idea. "Binario, ¿puedes hablar en números binarios?", preguntó. Binario respondió: "01011001 01100101 01110011, Marta. ¿Qué quieres que diga?" 
+
+
+
+Marta pensó por un momento y luego dijo: "Binario, di 'Me gusta la pizza' en binario." Binario respondió: "01001101 01100101 00100000 01100111 01110101 01110011 01110100 01100001 00100000 01101100 01100001 00100000 01110000 01101001 01111010 01111010 01100001." 
+
+
+
+Todos se rieron y comenzaron a pedirle a Binario que dijera diferentes frases en binario. "Binario, di 'Soy un robot'", "Binario, di 'La fiesta es genial'". Binario cumplió con todas las solicitudes, y la fiesta se volvió aún más divertida. 
+
+
+
+La noche continuó y Juan decidió mostrar otra función especial de Binario. "Amigos, Binario también puede hacer cálculos matemáticos complejos. Miren esto", dijo Juan. "Binario, ¿cuánto es 42 multiplicado por 17?" 
+
+
+
+Binario respondió: "01001000 01101111 01101100 01100001, Juan. 42 multiplicado por 17 es 714." Todos quedaron impresionados y comenzaron a pedirle a Binario que resolviera diferentes problemas matemáticos. "Binario, ¿cuánto es 123 más 456?", "Binario, ¿cuánto es 789 dividido por 3?" 
+
+
+
+La fiesta estaba en su punto máximo cuando Marta tuvo otra idea. "Binario, ¿puedes cantar una canción?", preguntó. Binario respondió: "01001000 01101111 01101100 01100001, Marta. Aquí tienes una canción: Twinkle, twinkle, little star, how I wonder what you are." 
+
+
+
+Todos se rieron y comenzaron a cantar junto con Binario. La fiesta continuó hasta altas horas de la noche, y todos se divirtieron mucho con las habilidades de Binario. 
+
+
+
+Finalmente, la fiesta llegó a su fin y los amigos de Juan comenzaron a irse. "Gracias por la increíble fiesta, Juan. Binario es increíble", dijo Pedro. "Sí, fue muy divertido. ¡Hasta la próxima!", añadió Marta. 
+
+
+
+Juan se despidió de sus amigos y se quedó solo con Binario. "Gracias por todo, Binario. Eres el mejor asistente virtual que podría pedir", dijo Juan. Binario respondió: "01010100 01110010 01100001 01101110 01110011 01101101 01101001 01110011 01101001 01101111 01101110 00100000 01100011 01101111 01101101 01110000 01101100 01100101 01110100 01100001, Juan. Buenas noches." 
+
+
+
+Y así, Juan y Binario se fueron a dormir, esperando con ansias las próximas aventuras tecnológicas que les esperaban. 
+

@@ -1,0 +1,57 @@
+Las aventuras del Compresor LZW
+
+Había una vez, en el tranquilo pueblo de Bitlandia, un joven programador llamado Lucas, cuya misión era resolver uno de los problemas más enigmáticos de su carrera: la compresión y descompresión de archivos con LZW. Lucas, con su taza de café en una mano y su teclado en la otra, se sentía preparado para enfrentar lo que creía sería una tarea simple. Pero pronto, descubriría que la vida de un compresor LZW estaba llena de enredos... literalmente.
+
+Una mañana soleada, Lucas recibió un correo de su jefe: “Necesitamos comprimir un archivo enorme. ¡Y necesitamos hacerlo con el algoritmo LZW! ¿Puedes hacerlo?”. Lucas, confiado en sus habilidades, respondió rápidamente: "¡Claro, sin problema!".
+
+Puso manos a la obra, programando su versión de compresión LZW. "Esto no puede ser tan complicado", se dijo, recordando vagamente la teoría detrás de LZW. Lucas sabía que este algoritmo trabajaba al reemplazar cadenas repetitivas de caracteres con códigos más cortos, lo que debería reducir el tamaño del archivo de manera significativa.
+
+Primer encuentro con los diccionarios mágicos
+
+Lucas implementó el algoritmo y lanzó su programa sobre un archivo de texto muy largo. Las primeras líneas de código corrieron sin problemas. El diccionario inicial estaba configurado, las cadenas se iban comprimiendo, y todo parecía marchar bien... al principio. Pero entonces, el archivo comenzó a crecer. ¡Y crecer! Cada vez que Lucas miraba el tamaño del archivo comprimido, era como ver a una boa que acababa de tragarse una vaca.
+
+"¡¿Cómo es posible que el archivo comprimido sea el doble del original?!", gritó Lucas, mirando incrédulo la pantalla.
+
+Resulta que Lucas había olvidado una pequeña, pero crucial parte: limitar el tamaño del diccionario. Así, el diccionario de Lucas comenzó a agregar y agregar nuevas entradas hasta que, en lugar de comprimir, estaba creando un archivo lleno de códigos larguísimos que tomaban más espacio que el texto original.
+
+Frustrado, Lucas decidió escribir un mensaje a su amigo Pedro, quien había trabajado con LZW antes.
+
+El consejo de Pedro y las cadenas misteriosas
+
+Pedro le respondió con una carcajada digital. "Ja, ja, ja, ¡Lucas! El diccionario de LZW no puede crecer indefinidamente. Debes reiniciarlo después de que alcance un tamaño razonable."
+
+Así que Lucas corrigió su código, estableciendo un límite para el tamaño del diccionario. Y esta vez, la compresión parecía funcionar correctamente. Lucas se recostó en su silla, sonriendo al ver el archivo comprimido mucho más pequeño que el original. "¡Lo logré!", pensó.
+
+Pero el verdadero reto no había llegado todavía.
+
+El desafío de la descompresión
+
+Con orgullo, Lucas decidió probar la descompresión del archivo. Después de todo, ¿qué tan difícil podría ser? Ya había enfrentado lo peor, ¿verdad?
+
+Activó su algoritmo de descompresión, que supuestamente debía tomar el archivo comprimido, leer los códigos y reconstruir el archivo original. Pero cuando terminó y abrió el archivo resultante, en lugar de leer el texto claro, lo único que vio fue un montón de símbolos extraños y caracteres aleatorios: "@#$%!&*".
+
+"Esto debe ser una broma", pensó Lucas, rascándose la cabeza.
+
+Intentó seguir paso a paso el proceso de descompresión. "Debe haber algo mal en la forma en que estoy reconstruyendo las cadenas", se dijo, repasando su código. Luego, recordó el consejo de Pedro: "El diccionario debe reiniciarse... Ah, claro. Eso también aplica a la descompresión".
+
+Pero incluso con esa corrección, seguía obteniendo resultados erróneos. Cada vez que trataba de descomprimir, algo nuevo y extraño sucedía: en una ocasión, el archivo descomprimido era solo una larga cadena de la letra "A". En otra, era una mezcla de números y signos que parecían más un mensaje secreto extraterrestre que el archivo original.
+
+El dilema de las cadenas faltantes
+
+Lucas descubrió finalmente lo que estaba mal: las cadenas faltantes en el diccionario. En el algoritmo LZW, el proceso de descompresión a veces necesitaba reconstruir cadenas que aún no existían en el diccionario. Lucas había pasado por alto ese pequeño detalle en su implementación.
+
+"¡Ajá! ¡Ahora sí lo tengo!", exclamó Lucas, sintiendo que estaba al borde del éxito. Ajustó su código y volvió a ejecutar la descompresión. Esta vez, el archivo resultante tenía algo de sentido... pero solo algo.
+
+Al revisar el archivo descomprimido, encontró frases que parecían salir de un sueño febril. El texto original era un poema romántico, pero lo que Lucas veía decía algo como: "La luna reventaba con queso sobre los mares de gorilas danzantes."
+
+La batalla final: la prueba de fuego
+
+Lucas se dio cuenta de que la solución no estaba solo en el código, sino en su paciencia. Después de múltiples intentos, con cada error sirviendo como una lección dolorosa, finalmente ajustó su algoritmo de compresión y descompresión. Se aseguró de que el diccionario se manejara adecuadamente tanto en tamaño como en la reconstrucción de cadenas.
+
+Una vez más, corrió su programa de compresión y, acto seguido, el de descompresión. Abrió el archivo descomprimido con manos temblorosas y... ¡Ahí estaba! El poema original, sin ningún signo de gorilas danzantes ni queso lunar. Por fin, había logrado comprimir y descomprimir correctamente usando LZW.
+
+Moraleja final
+
+La historia de Lucas nos enseña que, aunque la compresión LZW parece sencilla en teoría, en la práctica puede convertirse en una aventura llena de sorpresas, desde diccionarios que crecen descontroladamente hasta archivos descomprimidos que parecen mensajes de otro planeta. Pero al final, con suficiente paciencia, café y un buen amigo como Pedro, hasta el problema más enredado se puede resolver... aunque quizás no sin algunas risas por el camino.
+
+Y así concluyen las desventuras de Lucas, el joven programador que aprendió que comprimir con LZW es una tarea mucho más complicada de lo que parece.
